@@ -9,9 +9,7 @@ tags:
   - Business
   - Career
 ---
-> There are three main scenarios where this can happen:
-
-
+> # **Main scenarios where this can happen**
 
 Lack Of Leadership – When you have no role models or mentors to look up to in your workplace, it can be demoralizing.
 
